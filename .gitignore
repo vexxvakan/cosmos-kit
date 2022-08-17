@@ -3,6 +3,3 @@
 *.log
 **/node_modules
 coverage
-packages/**/build
-packages/**/main
-packages/**/module
